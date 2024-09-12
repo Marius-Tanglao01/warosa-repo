@@ -2,4 +2,9 @@ body {
   background-color: yellow;
 
   color: rgb(0, 0, 0);
+
+  body {
+    font-family: Verdana;
+    font-size: 2em;
+  }
 }
